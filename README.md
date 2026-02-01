@@ -1,1 +1,1 @@
-# ai-data-scaince-course
+# ai-data-science-course
